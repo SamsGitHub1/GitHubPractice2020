@@ -13,7 +13,7 @@ public class class4
 		int sum=call.addition(10, 20);
 
 		int sub1=call.sub(50, 46);
-		int sub2=call.sub(55, 65);
+		int sub2=call.sub(345, 65);
 		System.out.println("Addition is : " + sum);
 		System.out.println("Addition is : " + sub1);
 	}
