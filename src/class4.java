@@ -12,6 +12,7 @@ public class class4
 		//Calling Addition Method
 		int sum=call.addition(10, 20);
 		int sub1=call.sub(40, 35);
+		int sub2=call.sub(55, 65);
 		System.out.println("Addition is : " + sum);
 		System.out.println("Addition is : " + sub1);
 	}
